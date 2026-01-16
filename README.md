@@ -34,5 +34,5 @@ Sou apaixonado por construir sistemas robustos e escaláveis. Meu foco principal
 </p>
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=CarusoDeveloper&theme=tokyonight&hide_border=true" alt="Status de Sequência" />
+  <img width="100%" src="https://metrics.lecoq.io/CarusoDeveloper?template=classic&base.header=0&base.activity=0&base.community=0&display=regular" />
 </p>
