@@ -29,11 +29,10 @@ Sou apaixonado por construir sistemas robustos e escaláveis. Meu foco principal
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarusoDeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarusoDeveloper&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarusoDeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas de CarusoDeveloper" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarusoDeveloper&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CarusoDeveloper&theme=tokyonight" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=CarusoDeveloper&theme=tokyonight&hide_border=true" alt="Status de Sequência" />
 </p>
-
