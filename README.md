@@ -26,12 +26,14 @@ Sou apaixonado por construir sistemas robustos e escaláveis. Meu foco principal
 
 ---
 
-### 📈 GitHub Insights (Tema: Dark/Neon)
+### 📊 GitHub Insights
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarusoDeveloper&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarusoDeveloper&layout=compact&langs_count=7&theme=tokyonight&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarusoDeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarusoDeveloper&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CarusoDeveloper&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CarusoDeveloper&theme=tokyonight" />
 </p>
+
