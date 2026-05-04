@@ -1,18 +1,29 @@
-# Olá, eu sou o João Victor (Caruso)! 👋
+<div align="center">
 
-### 🚀 Software Engineer Student | Backend Focus
+# ⚡ [SYSTEM STATUS: OPERATIONAL]
 
-## 🛠️ Engenharia de Sistemas & Domínios Técnicos
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=JO%C3%83O+VICTOR;BACKEND+ENGINEER;CYBER+SECURITY+STUDENT;SYSTEMS+ARCHITECT" alt="Typing SVG" />
 
-| Domínio | Especialidade | Nível de Proficiência |
-| :--- | :--- | :--- |
-| **Linguagens de Core** | Java (LTS), C, Python | ![70%](https://geps.dev/progress/70?dangerColor=808080&warningColor=808080&successColor=404040) |
-| **Arquitetura** | POO, SOLID, Design Patterns | ![45%](https://geps.dev/progress/45?dangerColor=808080&warningColor=808080&successColor=404040) |
-| **Infra & OS** | Linux (Kernel/CLI), Docker, WSL2 | ![60%](https://geps.dev/progress/60?dangerColor=808080&warningColor=808080&successColor=404040) |
-| **Persistência** | SQL (PostgreSQL/MySQL), NoSQL | ![30%](https://geps.dev/progress/30?dangerColor=808080&warningColor=808080&successColor=404040) |
+---
 
+### 🛠️ KERNEL & MODULES
+`JAVA` • `PYTHON` • `C` • `POSTGRESQL` • `DOCKER` • `LINUX` • `NETWORKING`
 
-### 📫 Vamos conversar?
+</div>
+
+---
+
+### 📁 Root Directory
+```bash
+$ whoami
+> João Victor (Caruso)
+> Software Engineering @ Estácio
+> Focus: Backend Systems & Network Defense
+
+$ ls --skills
+  - [🛡️] Security: Fortinet, Cisco, ParrotOS, Pentesting Foundations
+  - [☕] Backend: Java (LTS), SOLID, Design Patterns, Spring
+  - [🌐] Infra: Linux Kernel, WSL2, Docker, Virtualization
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/carusoo.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carusodev)
