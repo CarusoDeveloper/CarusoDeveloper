@@ -2,13 +2,13 @@
 
 # ⚡ [SYSTEM STATUS: OPERATIONAL]
 
-<!-- Animação de Título: Backend + CyberSec + João Victor -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=JO%C3%83O+VICTOR;BACKEND+ENGINEER;CYBER+SECURITY+STUDENT;NETWORK+INFRASTRUCTURE" alt="Typing SVG" />
+<!-- Animação de Título: DevSecOps + Cloud + João Victor -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=JO%C3%83O+VICTOR;DEVSECOPS+STUDENT;CLOUD+INFRASTRUCTURE;LINUX+ENTHUSIAST" alt="Typing SVG" />
 
 ---
 
 ### 🛠️ KERNEL & MODULES
-`JAVA` • `PYTHON` • `C` • `POSTGRESQL` • `DOCKER` • `LINUX` • `NETWORKING`
+`LINUX` • `PYTHON` • `BASH` • `DOCKER` • `NETWORKING` • `GIT` • `AWS (STUDYING)`
 
 </div>
 
@@ -30,10 +30,14 @@
 ```bash
 $ whoami
 > João Victor (Caruso)
-> Software Engineering Student @ Estácio
-> Focus: Backend Architecture & Cybersecurity
+> Software Engineering Student
+> Focus: DevSecOps, Cloud Infrastructure & Automation
+
+$ cat /etc/current_focus
+> Construindo base sólida em Redes (TCP/IP), Administração Linux e Automação com Python.
+> Preparando para a certificação AWS Cloud Practitioner.
 
 $ ls --skills
-  - [🛡️] Security: Fortinet (FCF/FCA/NSE4), Cisco CCNA, ParrotOS
-  - [☕] Backend: Java (LTS), SOLID, Design Patterns, Spring
-  - [🌐] Infra: Linux Kernel, WSL2, Docker, Virtualization (ESXi/Proxmox)
+  - [🛡️] Security & OS: Parrot OS, Linux System Admin, Networking Fundamentals
+  - [⚙️] DevOps & Infra: Docker (Containers), Git/GitHub, Virtualization (ESXi/Proxmox)
+  - [🐍] Backend & Automation: Python, Bash Scripting, PostgreSQL, Java
