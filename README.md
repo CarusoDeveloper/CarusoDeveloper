@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/carusodev" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://instagram.com/carusoo.dev" target="_blank">
+<a href="https://instagram.com/caruso.eng" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 
