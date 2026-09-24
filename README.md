@@ -1,140 +1,229 @@
+<!--
+  CARUSO — GitHub Profile
+  Visual direction: dark / editorial / medieval-tech
+-->
+
 <div align="center">
 
-<img width="100%" src="./assets/banner-dark-ranger.png" alt="Caruso — Profile Banner" />
+<img src="./assets/caruso-cover.png" width="100%" alt="Caruso — Networks, Infrastructure and Cloud" />
 
-<br />
+<br>
 
-# Caruso
+# João Victor · Caruso
 
-### Software Engineering • Infrastructure • Networks • Cloud
+**SOFTWARE ENGINEERING · NETWORKS · INFRASTRUCTURE · CLOUD**
 
-<sub>
-Building reliable systems, operational platforms and technical foundations with focus on infrastructure, networking and cloud environments.
-</sub>
+Building reliable systems and learning the infrastructure behind them.
 
-<br />
+<br>
 
-<a href="https://linkedin.com/in/carusodeveloper" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=EAEAEA" alt="LinkedIn" />
-</a>
-<a href="https://instagram.com/caruso.eng" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-161616?style=for-the-badge&logo=instagram&logoColor=EAEAEA" alt="Instagram" />
-</a>
+[LinkedIn](https://linkedin.com/in/carusodeveloper) &nbsp;·&nbsp;
+[Instagram](https://instagram.com/caruso.eng)
 
 </div>
 
+<br>
+
 ---
+
+<table>
+<tr>
+<td width="58%" valign="top">
 
 ## About
 
-I’m João Victor, also known as **Caruso** — a Software Engineering student from Brazil focused on building a strong path across **infrastructure, networking, operations and cloud**.
+Software Engineering student focused on the engineering behind reliable systems.
 
-My interests are centered around the layer that keeps systems truly running:  
-**Linux environments, containers, automation, technical operations, network foundations and cloud infrastructure.**
+My background includes software development, backend services, containers and operational platforms. My current path is increasingly centered around **networking, Linux, infrastructure and cloud environments**.
 
-I value systems that are not only functional, but **reliable, maintainable and practical in real-world environments**.
+I enjoy working close to the point where software meets real operations: deployments, networking, containers, troubleshooting, system reliability and technical workflows.
 
----
+</td>
 
-## Focus Areas
+<td width="42%" valign="top">
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>Infrastructure</h3>
-      <p>Linux administration, containerized environments, virtualization and operational reliability.</p>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Networking</h3>
-      <p>TCP/IP fundamentals, troubleshooting, routing and switching concepts, and technical support foundations.</p>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Cloud</h3>
-      <p>Developing a solid base to evolve toward cloud infrastructure, automation and scalable environments.</p>
-    </td>
-  </tr>
+## Current path
+
+```text
+01  NETWORKS
+    TCP/IP · Routing · Switching
+
+02  SYSTEMS
+    Linux · Containers · Virtualization
+
+03  AUTOMATION
+    Python · Bash · Operational tooling
+
+04  CLOUD
+    Infrastructure · AWS · Architecture
+```
+
+</td>
+</tr>
 </table>
 
 ---
 
-## Featured Work
+## Selected work
+
+<table>
+<tr>
+<td valign="top">
 
 ### AFServiceOps
 
-An operational platform designed for field service execution and technician workflows.
+**Field Service Operations Platform**
 
-**Main scope**
-- Service order lifecycle
-- Technician operation flow
-- Operational dashboards
-- Closure policies and checklist rules
-- Evidence handling
-- Multi-tenant structure
-- Product-oriented system design
+Platform designed around the daily operation of field-service teams, connecting administration, dispatch and technician execution in a single operational workflow.
 
-This project has been one of the most important parts of my growth because it connects **software engineering, product thinking and operational reality**.
+The project deals with problems beyond traditional CRUD development, including workflow integrity, offline-oriented field operations, tenant isolation and evidence-based service completion.
+
+**Architecture & product scope**
+
+`Multi-tenant architecture`  
+`Service-order lifecycle`  
+`Technician operations`  
+`Operational dashboards`  
+`Closing policies`  
+`Field evidence`  
+`Geolocation workflows`  
+`Authentication & authorization`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Path
+## Engineering stack
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**SYSTEMS**
+
+Linux  
+Parrot OS  
+Bash  
+Docker  
+Virtualization
+
+</td>
+<td width="25%" valign="top">
+
+**NETWORKING**
+
+TCP/IP  
+Routing  
+Switching  
+Troubleshooting  
+Network fundamentals
+
+</td>
+<td width="25%" valign="top">
+
+**ENGINEERING**
+
+Python  
+TypeScript  
+Node.js  
+C# / .NET  
+SQL
+
+</td>
+<td width="25%" valign="top">
+
+**PLATFORM**
+
+PostgreSQL  
+Git / GitHub  
+React  
+Containers  
+Cloud fundamentals
+
+</td>
+</tr>
+</table>
+
+---
+
+## What I'm working toward
 
 ```text
-Networks → Infrastructure → Cloud
+Software
+   │
+   ├── Systems Engineering
+   │
+   ├── Networking
+   │
+   ├── Infrastructure
+   │
+   └── Cloud
+   │
+   └──────────────► reliable production environments
 ```
 
-Currently strengthening my knowledge in:
+My current studies are focused on strengthening the fundamentals required to operate and design infrastructure confidently: **networking, Linux administration, troubleshooting, automation and cloud architecture**.
 
-- **Linux system administration**
-- **Networking fundamentals (TCP/IP, troubleshooting, support context)**
-- **Docker and container-based workflows**
-- **Automation with Python and Bash**
-- **Cloud fundamentals and AWS studies**
-- **Operational thinking for technical environments**
-  
 ---
 
-## Toolbox
+## Principles
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Reliability
+
+A system is only useful when people can depend on it under real conditions.
+
+</td>
+<td width="33%" valign="top">
+
+### Simplicity
+
+Good engineering removes unnecessary complexity instead of hiding it.
+
+</td>
+<td width="33%" valign="top">
+
+### Ownership
+
+Understanding the whole problem matters more than knowing a single tool.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Activity
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-161616?style=for-the-badge&logo=linux&logoColor=EAEAEA)
-![Python](https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=EAEAEA)
-![Bash](https://img.shields.io/badge/Bash-161616?style=for-the-badge&logo=gnubash&logoColor=EAEAEA)
-![Docker](https://img.shields.io/badge/Docker-161616?style=for-the-badge&logo=docker&logoColor=EAEAEA)
-![Git](https://img.shields.io/badge/Git-161616?style=for-the-badge&logo=git&logoColor=EAEAEA)
-![GitHub](https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=EAEAEA)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161616?style=for-the-badge&logo=postgresql&logoColor=EAEAEA)
-![Java](https://img.shields.io/badge/Java-161616?style=for-the-badge&logo=openjdk&logoColor=EAEAEA)
-![Networking](https://img.shields.io/badge/Networking-161616?style=for-the-badge&logo=cisco&logoColor=EAEAEA)
-![AWS](https://img.shields.io/badge/AWS-161616?style=for-the-badge&logo=amazonaws&logoColor=EAEAEA)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=CarusoDeveloper&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B949E&icon_color=8B949E&ring_color=8B949E"
+  height="155"
+  alt="Caruso GitHub statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarusoDeveloper&layout=compact&hide_border=true&bg_color=00000000&title_color=C9D1D9&text_color=8B949E"
+  height="155"
+  alt="Caruso most used languages"
+/>
 
 </div>
 
 ---
 
-## GitHub Overview
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CarusoDeveloper&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=eaeaea&text_color=b8b8b8&icon_color=8f8f8f" alt="GitHub stats" />
+### CARUSO
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarusoDeveloper&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=eaeaea&text_color=b8b8b8" alt="Top languages" />
+`BUILD · OPERATE · UNDERSTAND`
 
-</div>
-
----
-
-## Connect
-
-- **LinkedIn** → [linkedin.com/in/carusodeveloper](https://linkedin.com/in/carusodeveloper)
-- **Instagram** → [instagram.com/caruso.eng](https://instagram.com/caruso.eng)
-
----
-
-<div align="center">
-
-<sub>
-Precision over noise. Consistency over hype.
-</sub>
+<sub>Precision in execution. Depth over noise.</sub>
 
 </div>
