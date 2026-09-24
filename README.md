@@ -1,154 +1,140 @@
 <div align="center">
 
-<!-- Banner principal -->
-<!-- Substituir depois pelo banner personalizado do arqueiro -->
-<img src="./assets/banner.png" width="100%" alt="Caruso — Dark Ranger Profile"/>
+<img width="100%" src="./assets/banner-dark-ranger.png" alt="Caruso — Profile Banner" />
 
-<br>
+<br />
 
-# 𐂂 CARUSO
+# Caruso
 
-### SOFTWARE ENGINEERING · NETWORKS · CLOUD INFRASTRUCTURE
+### Software Engineering • Infrastructure • Networks • Cloud
 
 <sub>
-“Precision before speed. Build before boast.”
+Building reliable systems, operational platforms and technical foundations with focus on infrastructure, networking and cloud environments.
 </sub>
 
-<br>
+<br />
 
-![Linux](https://img.shields.io/badge/LINUX-111111?style=flat-square&logo=linux&logoColor=D6D6D6)
-![Docker](https://img.shields.io/badge/DOCKER-111111?style=flat-square&logo=docker&logoColor=D6D6D6)
-![Python](https://img.shields.io/badge/PYTHON-111111?style=flat-square&logo=python&logoColor=D6D6D6)
-![Git](https://img.shields.io/badge/GIT-111111?style=flat-square&logo=git&logoColor=D6D6D6)
-![Networking](https://img.shields.io/badge/NETWORKING-111111?style=flat-square&logo=cisco&logoColor=D6D6D6)
-![AWS](https://img.shields.io/badge/AWS-STUDYING-111111?style=flat-square&logo=amazonwebservices&logoColor=D6D6D6)
+<a href="https://linkedin.com/in/carusodeveloper" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=EAEAEA" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/caruso.eng" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-161616?style=for-the-badge&logo=instagram&logoColor=EAEAEA" alt="Instagram" />
+</a>
 
 </div>
 
 ---
 
-## Ⅰ · THE WANDERER
+## About
 
-```text
-NAME        João Victor "Caruso"
-CLASS       Software Engineering Student
-PATH        Networks → Infrastructure → Cloud
-ORIGIN      Brazil
-STATUS      Building / Learning / Shipping
-```
+I’m João Victor, also known as **Caruso** — a Software Engineering student from Brazil focused on building a strong path across **infrastructure, networking, operations and cloud**.
 
-I build and study systems with a growing focus on **networks, Linux,
-infrastructure, automation and cloud environments**.
+My interests are centered around the layer that keeps systems truly running:  
+**Linux environments, containers, automation, technical operations, network foundations and cloud infrastructure.**
 
-My path started in software development and evolved toward the layer
-that keeps everything alive: **infrastructure, communication and reliability**.
+I value systems that are not only functional, but **reliable, maintainable and practical in real-world environments**.
 
 ---
 
-## Ⅱ · THE PATH
+## Focus Areas
 
-```text
-CURRENT JOURNEY
-
-Linux Administration        ███████████░░░
-Networking / TCP-IP          ██████████░░░░
-Docker & Containers          █████████░░░░░
-Python Automation            ████████░░░░░░
-Cloud Infrastructure         ██████░░░░░░░░
-AWS                          █████░░░░░░░░░
-```
-
-Currently strengthening my foundations in **TCP/IP, Linux administration,
-networking, containers and automation**, while advancing into cloud infrastructure.
-
----
-
-## Ⅲ · THE ARSENAL
-
-```text
-┌─ SYSTEMS
-│  Linux · Parrot OS · Bash
-│
-├─ INFRASTRUCTURE
-│  Docker · Virtualization · ESXi · Proxmox
-│
-├─ NETWORK
-│  TCP/IP · Routing · Switching · Troubleshooting
-│
-├─ AUTOMATION
-│  Python · Bash Scripting
-│
-├─ DATA
-│  PostgreSQL · SQL
-│
-└─ TOOLS
-   Git · GitHub · Docker · Linux CLI
-```
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Infrastructure</h3>
+      <p>Linux administration, containerized environments, virtualization and operational reliability.</p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Networking</h3>
+      <p>TCP/IP fundamentals, troubleshooting, routing and switching concepts, and technical support foundations.</p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Cloud</h3>
+      <p>Developing a solid base to evolve toward cloud infrastructure, automation and scalable environments.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Ⅳ · THE CHRONICLES
+## Featured Work
 
 ### AFServiceOps
 
-> Field service and operational management platform built around
-> real-world technician workflows.
+An operational platform designed for field service execution and technician workflows.
 
-```text
-SERVICE ORDERS
-TECHNICIAN OPERATIONS
-FIELD EVIDENCE
-OPERATIONAL DASHBOARDS
-MULTI-TENANT ARCHITECTURE
-WORKFLOW & CLOSING POLICIES
-```
+**Main scope**
+- Service order lifecycle
+- Technician operation flow
+- Operational dashboards
+- Closure policies and checklist rules
+- Evidence handling
+- Multi-tenant structure
+- Product-oriented system design
 
-A project where software engineering meets real operational requirements,
-reliability and field execution.
+This project has been one of the most important parts of my growth because it connects **software engineering, product thinking and operational reality**.
 
 ---
 
-## Ⅴ · CHARACTER RECORD
+## Current Path
+
+```text
+Networks → Infrastructure → Cloud
+```
+
+Currently strengthening my knowledge in:
+
+- **Linux system administration**
+- **Networking fundamentals (TCP/IP, troubleshooting, support context)**
+- **Docker and container-based workflows**
+- **Automation with Python and Bash**
+- **Cloud fundamentals and AWS studies**
+- **Operational thinking for technical environments**
+  
+---
+
+## Toolbox
 
 <div align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=CarusoDeveloper&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C8C8C8&text_color=8B8B8B&icon_color=777777"
-alt="GitHub Stats"/>
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarusoDeveloper&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C8C8C8&text_color=8B8B8B"
-alt="Most Used Languages"/>
+![Linux](https://img.shields.io/badge/Linux-161616?style=for-the-badge&logo=linux&logoColor=EAEAEA)
+![Python](https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=EAEAEA)
+![Bash](https://img.shields.io/badge/Bash-161616?style=for-the-badge&logo=gnubash&logoColor=EAEAEA)
+![Docker](https://img.shields.io/badge/Docker-161616?style=for-the-badge&logo=docker&logoColor=EAEAEA)
+![Git](https://img.shields.io/badge/Git-161616?style=for-the-badge&logo=git&logoColor=EAEAEA)
+![GitHub](https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=EAEAEA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161616?style=for-the-badge&logo=postgresql&logoColor=EAEAEA)
+![Java](https://img.shields.io/badge/Java-161616?style=for-the-badge&logo=openjdk&logoColor=EAEAEA)
+![Networking](https://img.shields.io/badge/Networking-161616?style=for-the-badge&logo=cisco&logoColor=EAEAEA)
+![AWS](https://img.shields.io/badge/AWS-161616?style=for-the-badge&logo=amazonaws&logoColor=EAEAEA)
 
 </div>
 
 ---
 
-## Ⅵ · SIGNAL FIRE
+## GitHub Overview
 
 <div align="center">
 
-<a href="https://linkedin.com/in/carusodeveloper">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=D6D6D6">
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CarusoDeveloper&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=eaeaea&text_color=b8b8b8&icon_color=8f8f8f" alt="GitHub stats" />
 
-<a href="https://instagram.com/caruso.eng">
-<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=D6D6D6">
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarusoDeveloper&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=eaeaea&text_color=b8b8b8" alt="Top languages" />
 
 </div>
 
-<br>
+---
+
+## Connect
+
+- **LinkedIn** → [linkedin.com/in/carusodeveloper](https://linkedin.com/in/carusodeveloper)
+- **Instagram** → [instagram.com/caruso.eng](https://instagram.com/caruso.eng)
+
+---
 
 <div align="center">
 
-```text
-              ─────── ⋆⋅𐂂⋅⋆ ───────
-
-        THE PATH IS LONG.
-        THE AIM REMAINS STEADY.
-
-              ─────────────────
-```
+<sub>
+Precision over noise. Consistency over hype.
+</sub>
 
 </div>
