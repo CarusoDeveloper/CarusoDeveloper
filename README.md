@@ -32,11 +32,11 @@ I work across **backend development, Linux, networking and infrastructure**, con
 ## Engineering through real problems.
 
 <p>
-  <img src="./assets/readme/project-afserviceops.svg" width="49%" alt="AFServiceOps: field-service operations platform" />
+  <a href="https://github.com/CarusoDeveloper/AFServiceOps"><img src="./assets/readme/project-afserviceops.svg" width="49%" alt="AFServiceOps: field-service operations platform" /></a>
   <a href="https://github.com/CarusoDeveloper/SelecionadosMP"><img src="./assets/readme/project-selecionadosmp.svg" width="49%" alt="SelecionadosMP: community truck-driving multiplayer project" /></a>
 </p>
 
-**AFServiceOps** — A field-service operations platform connecting administration, dispatch and technicians. The design centers on **multi-tenant boundaries, service-order lifecycles, operational workflows and evidence-based completion**. *Product / work in progress.*
+**[AFServiceOps](https://github.com/CarusoDeveloper/AFServiceOps)** — A field-service operations platform connecting administration, dispatch and technicians. The design centers on **multi-tenant boundaries, service-order lifecycles, operational workflows and evidence-based completion**. *Product / work in progress.*
 
 **[SelecionadosMP](https://github.com/CarusoDeveloper/SelecionadosMP)** — An experimental community multiplayer experience for truck-driving simulation. Approved players join shared sessions, drive together and organize group journeys. Built with **C++ and JavaScript**, with **HTML/CSS** for interfaces. *Limited testing / in development.*
 
