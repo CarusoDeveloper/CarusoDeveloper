@@ -1,214 +1,89 @@
-<div align="center">
+<!--
+  CARUSO / ENGINEERING PROFILE
+  Custom SVG artwork is maintained in assets/readme/.
+  No external stats APIs, scripts, or third-party badge services at render time.
+-->
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Caruso Developer. Build. Operate. Software engineering, systems, networks and infrastructure." />
+</p>
 
-# João Victor · Caruso
+<p align="center">
+  <a href="https://linkedin.com/in/carusodeveloper"><b>LINKEDIN</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/CarusoDeveloper?tab=repositories"><b>REPOSITORIES</b></a>
+</p>
 
-### `Software Engineering` · `Networks` · `Infrastructure` · `Cloud`
+<br>
 
-<sub>
-Building reliable systems, operational platforms and the technical foundation behind them.
-</sub>
+<sub>01 / INTRODUCTION</sub>
 
-<br/>
+## Software is only the beginning.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=EAEAEA)](https://linkedin.com/in/carusodeveloper)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=EAEAEA)](https://instagram.com/caruso.eng)
+I'm **João Victor (Caruso)**, a Software Engineering student interested in the systems that keep products running — not just the interfaces people see.
 
-</div>
+I work across **backend development, Linux, networking and infrastructure**, connecting product decisions with real operational constraints. I care about how software is deployed, observed, maintained and improved when things stop behaving as expected.
 
----
+**My direction:** build useful software, understand the systems beneath it, and take responsibility for the full technical picture.
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<br>
 
-## About
+<sub>02 / SELECTED WORK</sub>
 
-Software Engineering student focused on the engineering behind reliable systems.
+## Engineering through real problems.
 
-My background includes software development, backend services, containers and operational platforms. My current path is increasingly centered around **networking, Linux, infrastructure and cloud environments**.
+<p>
+  <img src="./assets/readme/project-afserviceops.svg" width="49%" alt="AFServiceOps: field-service operations platform" />
+  <a href="https://github.com/CarusoDeveloper/HypeMultiplayer"><img src="./assets/readme/project-selecionadosmp.svg" width="49%" alt="Selecionado'sMP: networked multiplayer systems for Euro Truck Simulator 2" /></a>
+</p>
 
-I enjoy working close to the layer where software meets real operations: **deployments, networking, containers, troubleshooting, system reliability and technical workflows**.
+**AFServiceOps** — A field-service operations platform connecting administration, dispatch and technicians. The design centers on **multi-tenant boundaries, service-order lifecycles, operational workflows and evidence-based completion**. *Product / work in progress.*
 
-</td>
-<td width="40%" valign="top">
+**[Selecionado'sMP](https://github.com/CarusoDeveloper/HypeMultiplayer)** — An experimental multiplayer platform for Euro Truck Simulator 2, exploring **client-server coordination, real-time synchronization, launcher workflows and systems troubleshooting**. *Public repository / experimental.*
 
-## Current Focus
+<br>
 
-```text
-01  NETWORKS
-    TCP/IP · Routing · Switching
+<sub>03 / TECHNICAL TERRITORY</sub>
 
-02  SYSTEMS
-    Linux · Containers · Virtualization
+## The layers I work across.
 
-03  AUTOMATION
-    Python · Bash · Operational Tooling
+| SYSTEMS & OPERATIONS | BACKEND & PRODUCTS | NETWORKS & PLATFORM |
+| :--- | :--- | :--- |
+| Linux · Bash · Docker · Virtualization | C# / .NET · Python · TypeScript · SQL | TCP/IP · Routing · Switching · Troubleshooting |
+| Deployment workflows · Diagnostics | APIs · Data modeling · Service workflows | PostgreSQL · Git · Cloud fundamentals |
 
-04  CLOUD
-    Infrastructure · AWS · Architecture
-```
+<br>
 
-</td>
-</tr>
-</table>
+<sub>04 / CURRENT DIRECTION</sub>
 
----
+## Building depth, not just a stack.
 
-## Core Areas
+<pre>
+  01  SOFTWARE ENGINEERING   →   backend, architecture, product logic
+  02  LINUX & OPERATIONS     →   tooling, automation, reliability
+  03  NETWORKING             →   TCP/IP, routing, switching, diagnostics
+  04  INFRASTRUCTURE         →   containers, deployments, cloud foundations
+</pre>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+I prefer simple, observable systems over unnecessary complexity. My goal is to be equally comfortable **writing the software, understanding its infrastructure and investigating its failures**.
 
-### Infrastructure
-Linux administration, containerized environments, virtualization and operational reliability.
+<br>
 
-</td>
-<td width="33%" valign="top">
+<sub>05 / THE WAY I THINK</sub>
 
-### Networking
-TCP/IP fundamentals, troubleshooting, routing, switching and support-oriented technical foundations.
+**Reliability over appearance.** The system has to work beyond the demo.
 
-</td>
-<td width="33%" valign="top">
+**Clarity over complexity.** A good architecture makes its trade-offs understandable.
 
-### Cloud
-Developing a strong base for infrastructure, automation and scalable cloud environments.
+**Ownership over abstraction.** Learn the full path from code to production.
 
-</td>
-</tr>
-</table>
+<br>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/carusodeveloper">Connect on LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://instagram.com/caruso.eng">Instagram</a>
+</p>
 
-## Selected Work
-
-<table>
-<tr>
-<td valign="top">
-
-### AFServiceOps  
-**Field Service Operations Platform**
-
-Platform designed around the daily operation of field-service teams, connecting administration, dispatch and technician execution in a single operational workflow.
-
-The project deals with problems beyond traditional CRUD development, including **workflow integrity, offline-oriented field operations, tenant isolation and evidence-based service completion**.
-
-#### Architecture & Product Scope
-
-`Multi-tenant architecture`  
-`Service-order lifecycle`  
-`Technician operations`  
-`Operational dashboards`  
-`Closing policies`  
-`Field evidence`  
-`Geolocation workflows`  
-`Authentication & authorization`
-
-</td>
-</tr>
-</table>
-
----
-
-## Engineering Stack
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-### Systems
-- Linux  
-- Parrot OS  
-- Bash  
-- Docker  
-- Virtualization  
-
-</td>
-<td width="25%" valign="top">
-
-### Networking
-- TCP/IP  
-- Routing  
-- Switching  
-- Troubleshooting  
-- Network fundamentals  
-
-</td>
-<td width="25%" valign="top">
-
-### Engineering
-- Python  
-- TypeScript  
-- Node.js  
-- C# / .NET  
-- SQL  
-
-</td>
-<td width="25%" valign="top">
-
-### Platform
-- PostgreSQL  
-- Git / GitHub  
-- React  
-- Containers  
-- Cloud fundamentals  
-
-</td>
-</tr>
-</table>
-
----
-
-## Current Direction
-
-```text
-Software
-   │
-   ├── Systems Engineering
-   ├── Networking
-   ├── Infrastructure
-   └── Cloud
-                └──► reliable production environments
-```
-
-My current studies are focused on strengthening the foundations required to operate and design infrastructure confidently: **networking, Linux administration, troubleshooting, automation and cloud architecture**.
-
----
-
-## Principles
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Reliability
-A system is only useful when people can depend on it under real conditions.
-
-</td>
-<td width="33%" valign="top">
-
-### Simplicity
-Good engineering removes unnecessary complexity instead of hiding it.
-
-</td>
-<td width="33%" valign="top">
-
-### Ownership
-Understanding the whole problem matters more than knowing a single tool.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## CARUSO
-
-`BUILD` · `OPERATE` · `UNDERSTAND`
-
-<sub>Precision in execution. Depth over noise.</sub>
-
-</div>
+<p align="center">
+  <img src="./assets/readme/signoff.svg" width="100%" alt="Caruso. Depth over noise. Build with purpose." />
+</p>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="290" viewBox="0 0 620 290" role="img" aria-label="Selecionado'sMP — Multiplayer systems for Euro Truck Simulator 2">
+<defs>
+  <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101316"/><stop offset="1" stop-color="#090c10"/></linearGradient>
+  <radialGradient id="b"><stop stop-color="#4c5760" stop-opacity=".47"/><stop offset="1" stop-color="#4c5760" stop-opacity="0"/></radialGradient>
+  <filter id="n"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" seed="21"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope=".13"/></feComponentTransfer></filter>
+</defs>
+<rect width="620" height="290" fill="url(#a)"/>
+<circle cx="533" cy="113" r="210" fill="url(#b)"/>
+<g fill="none" stroke="#9badbf" opacity=".2"><path d="M375 -20 C500 60 340 190 647 286"/><path d="M391 -20 C516 60 356 190 663 286"/><path d="M407 -20 C532 60 372 190 679 286"/><path d="M423 -20 C548 60 388 190 695 286"/><path d="M439 -20 C564 60 404 190 711 286"/></g>
+<path d="M30 52 H590 M30 240 H590" stroke="#a6b5c5" opacity=".2"/>
+<rect width="620" height="290" filter="url(#n)" opacity=".19"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="31" y="36" fill="#9db0c5" font-size="12" font-weight="700" letter-spacing="3">SELECTED WORK  /  02</text>
+<text x="31" y="120" fill="#f2f5f8" font-size="42" font-weight="800" letter-spacing="-2">Selecionado'sMP</text>
+<text x="32" y="155" fill="#c0cbd8" font-size="14" letter-spacing=".6">Multiplayer systems for Euro Truck Simulator 2</text>
+<text x="32" y="193" fill="#94a6ba" font-size="12" letter-spacing=".5">Realtime networking / client-server / operations</text>
+<text x="31" y="268" fill="#e1e8f0" font-size="11" font-weight="700" letter-spacing="2">NETWORKED SOFTWARE</text>
+<circle cx="575" cy="263" r="5" fill="#91a8c0"/>
+</g>
+</svg>
