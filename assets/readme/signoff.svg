@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="145" viewBox="0 0 1280 145" role="img" aria-label="Caruso Developer — Depth over noise">
+<defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#0a0e13"/><stop offset=".55" stop-color="#172332"/><stop offset="1" stop-color="#0a0e13"/></linearGradient><filter id="n"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" seed="8"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope=".18"/></feComponentTransfer></filter></defs>
+<rect width="1280" height="145" fill="url(#b)"/>
+<g fill="none" stroke="#899db4" stroke-width="1" opacity=".24"><path d="M-10 120 C180 15 300 150 510 82 S950 42 1300 102"/><path d="M-10 130 C180 25 300 160 510 92 S950 52 1300 112"/><path d="M-10 140 C180 35 300 170 510 102 S950 62 1300 122"/></g>
+<rect width="1280" height="145" filter="url(#n)" opacity=".17"/>
+<path d="M49 35 H1231" stroke="#e6edf5" opacity=".17"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#e6edf5"><text x="51" y="92" font-size="33" font-weight="800" letter-spacing="-1.2">CARUSO.</text><text x="1230" y="86" text-anchor="end" font-size="13" letter-spacing="3">DEPTH OVER NOISE  /  BUILD WITH PURPOSE</text></g>
+</svg>
