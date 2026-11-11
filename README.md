@@ -33,12 +33,12 @@ I work across **backend development, Linux, networking and infrastructure**, con
 
 <p>
   <img src="./assets/readme/project-afserviceops.svg" width="49%" alt="AFServiceOps: field-service operations platform" />
-  <a href="https://github.com/CarusoDeveloper/HypeMultiplayer"><img src="./assets/readme/project-selecionadosmp.svg" width="49%" alt="Selecionado'sMP: networked multiplayer systems for Euro Truck Simulator 2" /></a>
+  <a href="https://github.com/CarusoDeveloper/SelecionadosMP"><img src="./assets/readme/project-selecionadosmp.svg" width="49%" alt="SelecionadosMP: community truck-driving multiplayer project" /></a>
 </p>
 
 **AFServiceOps** — A field-service operations platform connecting administration, dispatch and technicians. The design centers on **multi-tenant boundaries, service-order lifecycles, operational workflows and evidence-based completion**. *Product / work in progress.*
 
-**[Selecionado'sMP](https://github.com/CarusoDeveloper/HypeMultiplayer)** — An experimental multiplayer platform for Euro Truck Simulator 2, exploring **client-server coordination, real-time synchronization, launcher workflows and systems troubleshooting**. *Public repository / experimental.*
+**[SelecionadosMP](https://github.com/CarusoDeveloper/SelecionadosMP)** — An experimental community multiplayer experience for truck-driving simulation. Approved players join shared sessions, drive together and organize group journeys. Built with **C++ and JavaScript**, with **HTML/CSS** for interfaces. *Limited testing / in development.*
 
 <br>
 
