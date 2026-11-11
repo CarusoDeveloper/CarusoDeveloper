@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/carusodeveloper"><b>LINKEDIN</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/CarusoDeveloper?tab=repositories"><b>REPOSITORIES</b></a>
+  <a href="https://instagram.com/caruso.eng"><b>INSTAGRAM</b></a>
 </p>
 
 <br>
