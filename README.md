@@ -40,6 +40,12 @@ I work across **backend development, Linux, networking and infrastructure**, con
 
 **[SelecionadosMP](https://github.com/CarusoDeveloper/SelecionadosMP)** — An experimental community multiplayer experience for truck-driving simulation. Approved players join shared sessions, drive together and organize group journeys. Built with **C++ and JavaScript**, with **HTML/CSS** for interfaces. *Limited testing / in development.*
 
+<p align="center">
+  <a href="https://github.com/CarusoDeveloper/Zyros-Sentinel"><img src="./assets/readme/project-zyros-sentinel.svg" width="100%" alt="Zyros Sentinel: local-first Linux observability and diagnostics" /></a>
+</p>
+
+**[Zyros Sentinel](https://github.com/CarusoDeveloper/Zyros-Sentinel)** — A local-first Linux monitoring and diagnostic experience focused on **real system measurements, process and service investigation, incident context and historical trends**. Built with **C# / .NET, React and SQLite**. *Engineering project / in development.*
+
 <br>
 
 <sub>03 / TECHNICAL TERRITORY</sub>
