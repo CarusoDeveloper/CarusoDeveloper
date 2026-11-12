@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="268" viewBox="0 0 1280 268" role="img" aria-label="Zyros Sentinel — Linux monitoring, diagnostics and local observability">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b131d"/><stop offset=".55" stop-color="#152232"/><stop offset="1" stop-color="#0b1017"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#587a96" stop-opacity=".35"/><stop offset="1" stop-color="#587a96" stop-opacity="0"/></radialGradient>
+ <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#a3c5d8" stop-opacity="0"/><stop offset=".6" stop-color="#cee2ee" stop-opacity=".46"/><stop offset="1" stop-color="#89b4c8" stop-opacity=".1"/></linearGradient>
+ <filter id="noise"><feTurbulence type="fractalNoise" baseFrequency=".78" numOctaves="2" seed="34" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope=".14"/></feComponentTransfer></filter>
+</defs>
+<rect width="1280" height="268" fill="url(#bg)"/>
+<ellipse cx="920" cy="106" rx="580" ry="240" fill="url(#glow)"/>
+<g stroke="#aec3d5" fill="none">
+ <path d="M32 45 H1248 M32 223 H1248" opacity=".19"/>
+ <path d="M865 61 V204 M966 61 V204 M1067 61 V204 M1168 61 V204" opacity=".1"/>
+ <path d="M865 88 H1248 M865 132 H1248 M865 176 H1248" opacity=".1"/>
+</g>
+<g fill="none" stroke="url(#wave)" stroke-width="1.4">
+ <path d="M680 180 H759 L777 180 L791 154 L808 205 L822 178 H893 L909 163 L930 180 H1016 L1035 145 L1051 189 H1120 L1139 171 L1158 180 H1280"/>
+ <path d="M680 190 H759 L777 190 L791 164 L808 215 L822 188 H893 L909 173 L930 190 H1016 L1035 155 L1051 199 H1120 L1139 181 L1158 190 H1280"/>
+ <path d="M680 200 H759 L777 200 L791 174 L808 225 L822 198 H893 L909 183 L930 200 H1016 L1035 165 L1051 209 H1120 L1139 191 L1158 200 H1280"/>
+</g>
+<rect width="1280" height="268" filter="url(#noise)" opacity=".16"/>
+<g font-family="Arial, Helvetica, sans-serif">
+ <text x="34" y="29" fill="#a5bace" font-size="12" font-weight="700" letter-spacing="3.1">SELECTED WORK / 03</text>
+ <text x="38" y="133" fill="#f1f5f9" font-size="65" font-weight="800" letter-spacing="-2">ZYROS SENTINEL.</text>
+ <text x="40" y="170" fill="#afc6d7" font-size="16" letter-spacing=".6">Local-first monitoring and diagnostics for Linux</text>
+ <text x="35" y="247" fill="#d5e1ea" font-size="11" letter-spacing="2">OBSERVE  /  INVESTIGATE  /  UNDERSTAND</text>
+ <text x="914" y="74" fill="#9db7cb" font-size="11" letter-spacing="2.2">LINUX SYSTEMS</text>
+ <text x="914" y="106" fill="#bcd0df" font-size="11" letter-spacing="2.1">C# / .NET</text>
+ <text x="914" y="127" fill="#bcd0df" font-size="11" letter-spacing="2.1">REACT / SQLITE</text>
+ <text x="1245" y="246" text-anchor="end" fill="#a9c0d0" font-size="10" letter-spacing="1.5">PROJECT SHOWCASE / IN DEVELOPMENT</text>
+</g>
+</svg>
